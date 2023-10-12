@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\bin\Debug\net6.0\MiniConsolEAppEmployment.exe
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\bin\Debug\net6.0\MiniConsolEAppEmployment.deps.json
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\bin\Debug\net6.0\MiniConsolEAppEmployment.runtimeconfig.json
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\bin\Debug\net6.0\MiniConsolEAppEmployment.dll
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\bin\Debug\net6.0\MiniConsolEAppEmployment.pdb
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\obj\Debug\net6.0\MiniConsolEAppEmployment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\obj\Debug\net6.0\MiniConsolEAppEmployment.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\obj\Debug\net6.0\MiniConsolEAppEmployment.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\obj\Debug\net6.0\MiniConsolEAppEmployment.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\obj\Debug\net6.0\MiniConsolEAppEmployment.dll
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\obj\Debug\net6.0\refint\MiniConsolEAppEmployment.dll
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\obj\Debug\net6.0\MiniConsolEAppEmployment.pdb
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\obj\Debug\net6.0\MiniConsolEAppEmployment.genruntimeconfig.cache
+C:\Users\ilkin\source\repos\MiniConsolEAppEmployment\MiniConsolEAppEmployment\obj\Debug\net6.0\ref\MiniConsolEAppEmployment.dll
